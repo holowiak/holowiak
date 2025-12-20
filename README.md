@@ -26,7 +26,7 @@ Certified in **AI 2.0 (Google & SGH)** with hands-on use of **ChatGPT** and **Ge
 - **Product Data Quality Checks (Excel)**  
 Validation of product-related data fields including quantity, discount rates and product    identifiers, with error flagging and summary reporting.
 - **Business Analysis Project (SQL)**
-Built a PostgreSQL-based e-commerce database to analyze customer behavior, order status distribution and revenue metrics. Cerated analystical SQL queries using joins, aggregations and date functions to answer common business questions.
+  Built a PostgreSQL-based e-commerce database to analyze customer behavior, order status distribution and revenue metrics. Cerated analystical SQL queries using joins, aggregations and date functions to answer common business questions.
 
 
 Thanks for visiting my profile. More projects coming soon.
