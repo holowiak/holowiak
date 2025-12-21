@@ -31,7 +31,7 @@ Certified in **AI 2.0 (Google & SGH)** with hands-on use of **ChatGPT** and **Ge
   Built a PostgreSQL-based e-commerce database to analyze customer behavior, order status distribution and revenue metrics. Created analytical SQL queries using joins, aggregations and date functions to answer common business questions.
 
 - **Business Process Modeling (BPMN)**<br>
-  Modeled an end-to-end pizza ordering process using BPMN-style notation, focusing on roles and responsibilities, decision points (delivery vs pickup,  cash vs card) and basic exception handling. Created clear and business-oriented process documentation using draw.io.
+  Modeled an end-to-end pizza ordering process using BPMN-style notation, focusing on roles and responsibilities, decision points (delivery vs pickup,  cash vs card) and basic exception handling. Complemented the process model with user stories and acceptance criteria to document functional business requirements. Created clear and business-oriented process documentation using draw.io.
 
 
 Thanks for visiting my profile. More projects coming soon.
