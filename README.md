@@ -25,15 +25,16 @@ Certified in **AI 2.0 (Google & SGH)** with hands-on use of **ChatGPT** and **Ge
 ## Projects
 
 - **Product Data Quality Checks (Excel)**<br>
-  Validation of product-related data fields including quantity, discount rates and product identifiers, with error flagging and summary reporting.
+  Validation of product-related data fields including quantity, discount rates and product identifiers.Implemented error flagging and summary reporting to support data quality analysis.
 
 - **Business Analysis Project (SQL)**<br>
-  Built a PostgreSQL-based e-commerce database to analyze customer behavior, order status distribution and revenue metrics. Created analytical SQL queries using joins, aggregations and date functions to answer common business questions.
+  Built a PostgreSQL-based e-commerce database to analyze customer behavior and order statuses. Created analytical SQL queries using joins, aggregations and date functions to answer common business questions and support reporting.
 
 - **Business Process Modeling (BPMN)**<br>
-  Modeled an end-to-end pizza ordering process using BPMN-style notation, focusing on roles and responsibilities, decision points (delivery vs pickup,  cash vs card) and basic exception handling. Complemented the process model with user stories and acceptance criteria to document functional business requirements. Created clear and business-oriented process documentation using draw.io.
-
+  Modeled an end-to-end pizza ordering process using BPMN-style notation. The model focuses on roles and responsibilities as well as key decision points (delivery vs pickup, cash vs card). Documented functional business requirements using user stories and acceptance criteria. Prepared clear, business-oriented process documentation using draw.io.
+  
 - **Customer Support Ticket Management (BPMN)**<br>
-  Modeled an end-to-end customer support ticket handling process using BPMN 2.0, including AS-IS and TO-BE states. Designed a structured support workflow with first-line and second-line support, SLA monitoring, escalation logic and customer confirmation before closure. Applied subprocess decomposition for complex second-line investigation and resolution activities. Defined key performance indicators (KPIs) such as SLA compliance, resolution time, escalation rate and reopen rate, and outlined future-state automation concepts aligned with ITIL-like best practices. Created clear, business-oriented process documentation using ADONIS:CE.
+  Modeled an end-to-end customer support ticket handling process using BPMN 2.0, including AS-IS and TO-BE states. Designed a structured support workflow with clear separation between first-line and second-line support. Included SLA monitoring, escalation logic and customer confirmation before ticket closure.
+Used subprocess decomposition to model complex second-line investigation and resolution activities. Defined key KPIs such as SLA compliance, resolution time, escalation rate and reopen rate. Outlined future-state automation concepts aligned with ITIL-like best practices. Created clear, business-oriented process documentation using ADONIS:CE.
 
 Thanks for visiting my profile. More projects coming soon.
