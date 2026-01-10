@@ -24,7 +24,7 @@ Certified in **AI 2.0 (Google & SGH)** with hands-on use of **ChatGPT** and **Ge
 
 ## Projects
 
-- **Online Appointment Booking System - Business Analysis (Jira + Confluence)**
+- **Online Appointment Booking System - Business Analysis (Jira + Confluence)**<br>
   Designed a complete business analysis case study for an online appointment booking system for a network of private physiotherapy clinics. Identified key business problems related to manual, multi-channel appointment handling and operational overload. Defined business goals, project scope (In Scope / Out of Scope) and stakeholder needs. Modeled AS-IS and TO-BE business processes using swimlane diagrams to highlight current inefficiencies and target-state improvements. Created a structured product backlog including Epics, User Stories and BDD-style Acceptance Criteria (GIVEN / WHEN / THEN). Documented the solution in Confluence and modeled the backlog in Jira to demonstrate a practical Agile analysis workflow.
 
 - **Customer Support Ticket Management (BPMN)**<br>
