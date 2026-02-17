@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a law graduate with a strong interest in data and process analysis.
+I am a law graduate with a strong interest in data, process analysis and how systems support structured and regulated environments.
 
 On GitHub, I share practical projects related to:
 - SQL data analysis
