@@ -8,9 +8,9 @@ On GitHub, I share practical projects related to:
 - Business process modeling (BPMN)
 - Simple workflow and automation concepts
 
-I am interested in how structured systems and databases support business operations, especially in regulated environments such as banking and fintech.
+I am interested in how structured systems and databases support business operations.
 
-Currently developing my skills in SQL and Power BI, while learning basic scripting to better understand how systems and automation work.
+Currently developing my skills in SQL and Power BI to improve reporting, data analysis and process understanding.
 
 ---
 
