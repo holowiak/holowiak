@@ -16,11 +16,10 @@ Currently developing my skills in SQL and Power BI, while learning basic scripti
 
 ## Areas of interest
 - Business and data analysis  
-- Data quality and consistency  
-- Reporting and dashboards  
-- Process understanding and improvement  
+- Data quality and validation  
+- Reporting and dashboard development
+- Process analysis and improvement  
 - Automation and system logic
-- Basic coding and scripting
 
 ---
 
