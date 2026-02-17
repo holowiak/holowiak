@@ -1,14 +1,16 @@
 # Hi 👋
 
-Law graduate transitioning into IT with a focus on **Business Analysis** and working with data.
+I am a law graduate with a strong interest in data and process analysis.
 
-Interested in how data supports business decisions, improves data quality and helps analyse processes in structured environments such as e-commerce.
+On GitHub, I share practical projects related to:
+- SQL data analysis
+- Excel reporting and data validation
+- Business process modeling (BPMN)
+- Simple workflow and automation concepts
 
-Practical projects built using **Excel**, with ongoing development in **SQL** and **Power BI** to support reporting and analysis.
+I am interested in how structured systems and databases support business operations, especially in regulated environments such as banking and fintech.
 
-In free time exploring **Python** and simple **JavaScript** projects (often with the help of AI tools) to better understand automation, system behaviour and data workflows.
-
-Certified in **AI 2.0 (Google & SGH)** with hands-on use of **ChatGPT** and **Gemini** for analysis, automation and idea prototyping.
+Currently developing my skills in SQL and Power BI, while learning basic scripting to better understand how systems and automation work.
 
 ---
 
