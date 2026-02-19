@@ -1,25 +1,25 @@
 # Hi 👋
 
-I am a law graduate with a strong interest in data, process analysis and how systems support structured and regulated environments.
+I am a law graduate developing practical skills in business process and data analysis.
+My work focuses on understanding how structured systems, databases and reporting mechanisms support daily operations - especially in documentation-heavy and regulated environments.
 
-On GitHub, I share practical projects related to:
-- SQL data analysis
+On GitHub, I share hands-on projects related to:
+- SQL-based data analysis
 - Excel reporting and data validation
-- Business process modeling (BPMN)
-- Simple workflow and automation concepts
+- Business process modeling (BPMN, AS-IS / TO-BE)
+- Workflow improvement and basic automation concepts
 
-I am interested in how structured systems and databases support business operations.
-
-Currently developing my skills in SQL and Power BI to improve reporting, data analysis and process understanding.
+I approach problems in a structured way: analyzing the current state, identifying inefficiencies and building clearer, more reliable solutions based on data.
+Currently expanding my skills in SQL and Power BI to strengthen reporting and analytical capabilities.
 
 ---
 
 ## Areas of interest
-- Business and data analysis  
-- Data quality and validation  
+- Business and data analysis
+- Data quality and validation
 - Reporting and dashboard development
-- Process analysis and improvement  
-- Automation and system logic
+- Process analysis and improvement
+- Workflow automation and system logic
 
 ---
 
