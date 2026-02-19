@@ -1,7 +1,7 @@
 # Hi 👋
 
 I am a law graduate developing practical skills in business process and data analysis.
-My work focuses on understanding how structured systems, databases and reporting mechanisms support daily operations - especially in documentation-heavy and regulated environments.
+My work focuses on understanding how structured systems, databases and reporting mechanisms support daily operations, particularly in documentation-heavy and regulated environments.
 
 On GitHub, I share hands-on projects related to:
 - SQL-based data analysis
